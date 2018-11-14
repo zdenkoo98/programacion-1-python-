@@ -4,3 +4,13 @@
 Ej---> sugus es un palindromo
 Funcion 1 ---> con sugus devuelve "True"
 Funcion 2 ---> con la palabra "hola" devuelve holaloh"
+
+-----------------------------------------------------------------------------------
+
+-Dado un numero validar si es un numero primo
+-Dados 2 numeros enteros ingresados por el usuario generar el resultado como se muestra en los ejemplos:
+
+x=4 y=5   
+01020304
+10111205
+09080706  
