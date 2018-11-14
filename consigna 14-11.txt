@@ -1,0 +1,6 @@
+-Hacer 2 funciones que dadas 1 palabra
+1) Devuelva "True" si es un palindromo
+2) Convierta la palabra en un palindromo
+Ej---> sugus es un palindromo
+Funcion 1 ---> con sugus devuelve "True"
+Funcion 2 ---> con la palabra "hola" devuelve holaloh"
